@@ -1,4 +1,4 @@
-Jubatus:
+Jubatus
 =======
 
 The Jubatus library is an online machine learning framework which runs in distributed environment.
